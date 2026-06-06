@@ -1,0 +1,22 @@
+.cordofundo .navbar {
+    background: linear-gradient(90deg, #532be4, #8d53eb);
+}
+body {
+  background-color: #884cb1c4;
+}
+
+.hero {
+  background: linear-gradient(to right, #2a1579, #17ace7);
+  padding: 80px 20px;
+  margin-bottom: 30px;
+}
+
+.card img {
+  height: 400px;
+  object-fit: cover;
+}
+
+.letra {
+  color: white;
+  margin-left: 20px;
+}
